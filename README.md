@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dlaprete
 - 👀 I’m interested in computer technology
 - 🌱 I’m currently studying for several COMPTIA Exams
-- 💞️ I’m looking to collaborate on furthering my skillset and career.
+- 💞️ I’m looking to collaborate with others and finding a mentor to further my skillset and career.
 - 📫 How to reach me dlaprete@outlook.com
 
 <!---
